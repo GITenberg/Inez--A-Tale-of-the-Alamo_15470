@@ -1,0 +1,35 @@
+_repo: Inez--A-Tale-of-the-Alamo_15470
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Evans, Augusta J. (Augusta Jane)
+    aliases:
+    - Wilson, Augusta Jane Evans
+    - Wilson, Augusta Evans
+    - Wilson, Augusta J. Evans
+    birthdate: 1835
+    deathdate: 1909
+    gutenberg_agent_id: '1399'
+    url: http://www.gutenberg.org/2009/agents/1399
+description: The first novel by Augusta Jane Evans, the famed American Southern author,
+  was written when she was only 15.  Inez is a sentimental, moralistic, anti-Catholic
+  love story which follows an orphan's spiritual journey from religious skepticism
+  to devout faith.
+gutenberg_issued: '2005-03-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15470'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sieges -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Alamo (San Antonio, Tex.) -- Siege, 1836 -- Fiction'
+- !lcsh 'Historical fiction'
+title: 'Inez: A Tale of the Alamo'
+url: http://www.gutenberg.org/ebooks/15470
